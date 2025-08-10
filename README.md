@@ -60,12 +60,6 @@ You need to have Git installed on your local machine.
 6.  **Run the application:**
     -   Simply open the `index.html` file in your web browser.
 
-## 📁 Project Structure
-
-weather-app/
-├── index.html       # Main HTML structure
-├── styles.css       # Styling for the application
-└── script.js        # JavaScript logic and API calls
 
 ## 🤝 Contributing
 
