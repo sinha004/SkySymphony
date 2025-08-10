@@ -1,11 +1,8 @@
 # 🌈 Weather App
 
 [![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-brightgreen)](https://weather-app-xi-three-89.vercel.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A simple and intuitive weather application that provides real-time weather updates for any location using the OpenWeatherMap API.
-
-![App Screenshot](./path/to/your/screenshot.png)
 
 ## 🚀 Live Demo
 
